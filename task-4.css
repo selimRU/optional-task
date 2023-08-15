@@ -1,0 +1,11 @@
+#pass{
+    position: relative;
+    padding: 10px 5px;
+}
+img{
+    position: absolute;
+    right: 87%;
+    top: 12px;
+    width: 30px;
+    cursor: pointer;
+}
